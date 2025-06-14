@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/codehunger-team/laravel-filament-support-ticket-system/actions">
-        <img src="https://github.com/codehunger-team/laravel-filament-support-ticket-system/workflows/tests/badge.svg" alt="Build Status">
+   <a href="https://github.com/laravel/framework/actions">
+        <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
     </a>
     <a href="https://packagist.org/packages/codehunger/support-ticket-system">
         <img src="https://img.shields.io/packagist/dt/codehunger/support-ticket-system" alt="Total Downloads">
@@ -29,13 +29,13 @@ This repository demonstrates how to build a **Support Ticket System** using [Lar
 
 ## 🚀 Features
 
-- 🎫 Ticket Creation with Priorities and Status
-- 🧵 Threaded Replies with Attachments
-- 👤 Admin Assignment and Role-Based Access
-- 💬 Inline Reply Modal from Ticket List
-- 🧩 Filament-Powered UI Components
-- 📂 Custom File Upload Directory
-- 🔐 Authenticated User Integration
+-   🎫 Ticket Creation with Priorities and Status
+-   🧵 Threaded Replies with Attachments
+-   👤 Admin Assignment and Role-Based Access
+-   💬 Inline Reply Modal from Ticket List
+-   🧩 Filament-Powered UI Components
+-   📂 Custom File Upload Directory
+-   🔐 Authenticated User Integration
 
 ---
 
@@ -47,3 +47,4 @@ Clone this repository into your Laravel project or follow the blog to build it f
 git clone https://github.com/codehunger-team/laravel-filament-support-ticket-system.git
 cd laravel-filament-support-ticket-system
 composer install
+```
