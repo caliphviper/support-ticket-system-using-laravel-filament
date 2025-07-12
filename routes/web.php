@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+use Filament\Pages\Dashboard;
+
+Route::get('/', fn () => redirect('/admin'));
+
+
